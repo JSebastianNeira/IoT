@@ -16,7 +16,7 @@ Dr. Lorena G. Gómez Martínez
 Dr. Sergio Camacho
 
 
-**UNIVERSIDAD:**
+**Universidad:**
 Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 
