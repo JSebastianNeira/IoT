@@ -40,7 +40,6 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
     		- Node MCU ESP8266 V2
 	IDE:
 	  	- Arduino IDE
-	  	- Foto de los 2 circuitos
 ![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
 ![hardware photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Node%20MCU.jpg?raw=true "Node Simulador de AC")
 ![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 2")
@@ -50,9 +49,8 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 ###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
-		- Diagrama de la base de datos
-		  diagrama.jpg
-		  arbolito.jpg
+![Firebase Photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Firebase Photo")
+![Database Diagram](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/UML.jpg?raw=true "Database Diagram")
 
 ###### DASHBOARD
 	Lenguaje:
