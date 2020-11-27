@@ -61,6 +61,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	IDE: 
     		- Android Studio
 	  	- Fotos de la Dashboard:
+			![Aquí la descripción de la imagen por si no carga]	(https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg)
 	  		imagenes/Dashboard 1.jpg
 			imagenes/Dashboard 2.jpg
 			imagenes/Dashboard 3.jpg
