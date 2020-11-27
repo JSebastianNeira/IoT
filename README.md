@@ -45,15 +45,16 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	  	- Arduino IDE
 	  	- Foto de los 2 circuitos
 	  	- Diagrama de los dos circuitos:
-		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
-		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 1")
+
 
 ###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
 		- Diagrama de la base de datos
 			diagrama.jpg
-    
+    		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
+		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 2")
+		
 ###### DASHBOARD
 	Lenguaje:
 		- Dart
