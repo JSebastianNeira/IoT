@@ -1,9 +1,10 @@
-"Documentación Droser IoT"
-Juan Sebastián Neira González		A01570411
-Joel Isaí Ramos Hernández		A01245083
-Carolina Gómez Manzano			A01632229
-Luis Adrian Mendoza Rodriguez		A00829099
-Armando de Jesus Cerda De la Rosa 	A01570376
+# Documentación Droser IoT"
+###### EQUIPO
+- Juan Sebastián Neira González		A01570411
+- Joel Isaí Ramos Hernández		A01245083
+- Carolina Gómez Manzano			A01632229
+- Luis Adrian Mendoza Rodriguez		A00829099
+- Armando de Jesus Cerda De la Rosa 	A01570376
 
  
 Fecha: 27/Nov/2020
