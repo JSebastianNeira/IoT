@@ -25,6 +25,8 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 ![IOT CAPAS](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Capas.jpg?raw=true "CAPAS IOT")
 
 ###### SENSORES Y NODO (https://github.com/JSebastianNeira/IoT/tree/main/Arduino)
+
+	Hay dos códigos 'sensores.cpp' y 'ac.cpp'. cada uno para su respectivo node.
 	Lenguaje de programación:
    		- C++ para Arduino  
 	Librerías:
