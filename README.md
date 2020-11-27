@@ -64,7 +64,3 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
-			imagenes/Dashboard 2.jpg
-			imagenes/Dashboard 3.jpg
-
-
