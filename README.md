@@ -33,6 +33,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
     		- NewPing: Librería para facilitar el uso del sensor HC-SR04
     		- DHT: Librería para usar el sensor DHT 11
    		- FirebaseArduino: Librería para poder conectarse con la base de datos de Google Firebase Realtime Database
+		
   	Hardware Usado:
     		- DHT11: Sensor de temperatura y humedad
     		- HC-SR04: Sensor ultrasónico
@@ -41,6 +42,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
     		- Node MCU ESP8266 V2
 	IDE:
 	  	- Arduino IDE
+		
 ![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
 ![hardware photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Node%20MCU.jpg?raw=true "Node Simulador de AC")
 ![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 2")
@@ -49,7 +51,8 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 ###### BASE DE DATOS
 	Servidor usado:
-		- Google Firebase
+		- Google Firebase Real Time Database
+		
 ![Firebase Photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Estructura%20FireBase.jpg?raw=true "Firebase Photo")
 ![Database Diagram](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/UML.jpg?raw=true "Database Diagram")
 
@@ -60,6 +63,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 		- Flutter
 	IDE: 
     		- Android Studio
+		
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
