@@ -1,4 +1,4 @@
-# Documentación Droser IoT"
+# Documentación Droser IoT
 ###### EQUIPO
 - Juan Sebastián Neira González		A01570411
 - Joel Isaí Ramos Hernández		A01245083
