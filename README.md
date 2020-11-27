@@ -61,7 +61,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	IDE: 
     		- Android Studio
 	  	- Fotos de la Dashboard:
-		![Dashboard APP](https://github.com/JSebastianNeira/IoT/main/imagenes/Dashboard%201.jpg "APP1")
+		<img src="https://github.com/JSebastianNeira/IoT/main/imagenes/Dashboard%201.jpg" alt="My cool logo"/>
 	  		imagenes/Dashboard 1.jpg
 			imagenes/Dashboard 2.jpg
 			imagenes/Dashboard 3.jpg
