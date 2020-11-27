@@ -1,4 +1,4 @@
-# Documentación Droser IoT"
+# Documentación Droser IoT
 ###### EQUIPO
 - Juan Sebastián Neira González		A01570411
 - Joel Isaí Ramos Hernández		A01245083
@@ -39,22 +39,22 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
     		- Resistencia 220 Ω
     		- Node MCU ESP8266 V2
 		- Imagen Hardware:
-			imagenes/Hardware.jpg
-			imagenes/Node MCU.jpg
+![hardware photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Hardware.jpg?raw=true "Node Sensores")
+![hardware photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Node%20MCU.jpg?raw=true "Node Simulador de AC")
 	IDE:
 	  	- Arduino IDE
 	  	- Foto de los 2 circuitos
 	  	- Diagrama de los dos circuitos:
-
+![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
+![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 2")
 
 ###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
 		- Diagrama de la base de datos
-			diagrama.jpg
-    		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
-		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 2")
-		
+		  diagrama.jpg
+		  arbolito.jpg
+
 ###### DASHBOARD
 	Lenguaje:
 		- Dart
@@ -63,6 +63,6 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	IDE: 
     		- Android Studio
 	  	- Fotos de la Dashboard:
-		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
-		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
-		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
+![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
+![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
+![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
