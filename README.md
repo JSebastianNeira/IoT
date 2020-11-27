@@ -45,13 +45,14 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	  	- Arduino IDE
 	  	- Foto de los 2 circuitos
 	  	- Diagrama de los dos circuitos:
-			imagenes/Driagama Circuito 1.jpg
-			imagenes/Driagama Circuito 2.jpg
+		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%201.jpg?raw=true "Diagrama Circuito 1")
+		![hardware circuit](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Diagrama Circuito 1")
 
 ###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
 		- Diagrama de la base de datos
+			diagrama.jpg
     
 ###### DASHBOARD
 	Lenguaje:
@@ -61,6 +62,6 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 	IDE: 
     		- Android Studio
 	  	- Fotos de la Dashboard:
-![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
-![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
-![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
+		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%201.jpg?raw=true "App screen 1")
+		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
+		![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
