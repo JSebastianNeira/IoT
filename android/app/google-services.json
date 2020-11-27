@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695773510533",
+    "firebase_url": "https://iotdrosser.firebaseio.com",
+    "project_id": "iotdrosser",
+    "storage_bucket": "iotdrosser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695773510533:android:291009f30f2a2c5d4062ec",
+        "android_client_info": {
+          "package_name": "preventech.preventech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695773510533-dd2k7nf38t4do7hrhjavvvu3eiq3m49i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMOwjzliPmrp2Y0DN9jlv0Lky1h5iANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695773510533-dd2k7nf38t4do7hrhjavvvu3eiq3m49i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

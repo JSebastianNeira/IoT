@@ -1,4 +1,4 @@
-#Wed Nov 18 16:27:33 CST 2020
-base.0=C\:\\Users\\caro9\\AndroidStudioProjects\\preventech\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Fri Nov 27 12:45:11 CST 2020
+base.0=C\:\\Users\\caro9\\AndroidStudioProjects\\preventech\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
