@@ -2,28 +2,28 @@
 ###### EQUIPO
 - Juan Sebastián Neira González		A01570411
 - Joel Isaí Ramos Hernández		A01245083
-- Carolina Gómez Manzano			A01632229
+- Carolina Gómez Manzano		A01632229
 - Luis Adrian Mendoza Rodriguez		A00829099
 - Armando de Jesus Cerda De la Rosa 	A01570376
 
  
-Fecha: 27/Nov/2020
+**Fecha:** 27/Nov/2020
  
-Materia: Implementación de internet de las cosas
+**Materia:** Implementación de internet de las cosas
 
-Profesor:
+**Profesor:**
 Dr. Lorena G. Gómez Martínez
 Dr. Sergio Camacho
 
 
-
+**UNIVERSIDAD:**
 Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 
 
-CAPAS 
+## CAPAS 
 
-SENSORES Y NODO
+###### SENSORES Y NODO
 	Lenguaje de programación:
    		- C++ para Arduino  
 	Librerías:
@@ -48,12 +48,12 @@ SENSORES Y NODO
 			imagenes/Driagama Circuito 1.jpg
 			imagenes/Driagama Circuito 2.jpg
 
-BASE DE DATOS
+###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
 		- Diagrama de la base de datos
     
-DASHBOARD
+###### DASHBOARD
 	Lenguaje:
 		- Dart
 	Framework:
