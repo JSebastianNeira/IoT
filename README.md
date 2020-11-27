@@ -22,8 +22,9 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 
 ## CAPAS 
+![IOT CAPAS](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Capas.jpg?raw=true "CAPAS IOT")
 
-###### SENSORES Y NODO
+###### SENSORES Y NODO (https://github.com/JSebastianNeira/IoT/tree/main/Arduino)
 	Lenguaje de programación:
    		- C++ para Arduino  
 	Librerías:
@@ -49,10 +50,10 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 ###### BASE DE DATOS
 	Servidor usado:
 		- Google Firebase
-![Firebase Photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Driagama%20Circuito%202.jpg?raw=true "Firebase Photo")
+![Firebase Photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Estructura%20FireBase.jpg?raw=true "Firebase Photo")
 ![Database Diagram](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/UML.jpg?raw=true "Database Diagram")
 
-###### DASHBOARD
+###### DASHBOARD (https://github.com/JSebastianNeira/IoT/tree/main/Flutter)
 	Lenguaje:
 		- Dart
 	Framework:
