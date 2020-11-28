@@ -55,7 +55,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 ###### BASE DE DATOS
 	Servidor usado:
-		- Google Firebase Real Time Database
+		- Google Firebase Real Time Database, No auth in rules
 		
 ![Firebase Photo](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Estructura%20FireBase.jpg?raw=true "Firebase Photo")
 ![Database Diagram](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/UML.jpg?raw=true "Database Diagram")
