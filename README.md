@@ -35,7 +35,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
     		- ESP8266WiFi: Librería para poder conectar el NodeMCU a la red WiFi
     		- NewPing: Librería para facilitar el uso del sensor HC-SR04
     		- DHT: Librería para usar el sensor DHT 11
-		- FirebaseArduino: Librería para poder conectarse con la base de datos de Google Firebase Realtime Database
+		- FirebaseArduino: Librería para poder conectarse con la DB de Google Firebase Realtime Database
 		
   	Hardware Usado:
     		- DHT11: Sensor de temperatura y humedad
