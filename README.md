@@ -28,7 +28,6 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 	Hay dos códigos 'sensores.cpp' y 'ac.cpp'. cada uno para su respectivo node.
 	
-	
 	Lenguaje de programación:
    		- C++ para Arduino  
 	Librerías:
@@ -65,6 +64,11 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 		- Dart
 	Framework:
 		- Flutter
+	Packages:
+		- Cupertino.dart
+		- Material.dart
+		- Firebase_database.dart
+		- Material_design_icons_flutter.dart
 	IDE: 
     		- Android Studio
 		
@@ -77,7 +81,6 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 - Prender el AC desde la App, cuidando la integridad del firebase y código del node
 - Pantalla Consumo aprovechando los logs del Node en firebase
 - Cálculos por usuario del consumo, authentication.
-
 
 ## VÍDEO
 
