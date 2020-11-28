@@ -72,5 +72,12 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%202.jpg?raw=true "App screen 2")
 ![Android App Screenshot](https://github.com/JSebastianNeira/IoT/blob/main/imagenes/Dashboard%203.jpg?raw=true "App screen 3")
 
+## PRÓXIMAS ITERACIONES
+
+- Prender el AC desde la App, cuidando la integridad del firebase y código del node
+- Pantalla Consumo aprovechando los logs del Node en firebase
+- Cálculos por usuario del consumo, authentication.
+
+
 ## VÍDEO
 
