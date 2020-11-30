@@ -14,7 +14,7 @@
 //Pins y constante del Sensor Ultrasonico
 #define TRIGGER 0 //Pin D3
 #define ECHO 4    //Pin D2
-#define MAX_LENGHT 40 
+#define MAX_LENGHT 50 
 
 //Pins Sensor de Humedad y Temperatura
 #define DHTPIN 2 //Pin D4
@@ -71,10 +71,9 @@ void loop(){
     
     JsonObject& registerObject = jsonBuffer.createObject();
     JsonObject& tempTime1 = registerObject.createNestedObject("Fecha&Hora");
-   
+    
     Firebase.setFloat(USUARIO + "/Distancia", Distance);
-    //En este if habra que investigar si la perona entro o salio
-    if((Distance >= distanceLimit) && !door){ //Depende el setup puede ser <= o >=
+    if((((Distance <= distanceLimit) && Distance != 0) && !door){ 
       inout = !inout; //entro/salio
       door = true; //La puerta se encuentra abierta
 
@@ -86,7 +85,7 @@ void loop(){
       Firebase.setBool(USUARIO + "/Door", door);
     }
 
-    if(Distance < distanceLimit){
+    if(Distance > distanceLimit || Distance == 0){
       door = false; //La puerta se encuentra cerrada
       Firebase.setBool(USUARIO + "/Door", door);
     }
