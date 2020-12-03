@@ -78,6 +78,7 @@ Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 ## PRÓXIMAS ITERACIONES
 
+- Autentificaciòn
 - Prender el AC desde la App, cuidando la integridad del firebase y código del node
 - Pantalla Consumo aprovechando los logs del Node en firebase
 - Cálculos por usuario del consumo, authentication.
